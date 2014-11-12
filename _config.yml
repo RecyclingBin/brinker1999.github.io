@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            "Zach's Website"
+title:            "Rob's Website"
 tagline:          "A GitHub Website"
-description:      "Zach's GitHub Website"
-url:              http://github.com/zachpanz88
+description:      "Robs's GitHub Website"
+url:              http://github.com/Brinker1999
 
 author:
-  name:           'Zach P'
-  url:            https://github.com/zachpanz88
+  name:           'Robert B'
+  url:            https://github.com/Brinker1999
 
 paginate:         5
 
@@ -21,4 +21,4 @@ paginate:         5
 version:          1.0.0
 
 github:
-  repo:           https://github.com/zachpanz88/zachpanz88.github.io
+  repo:           https://github.com/Brinker1999/Brinker1999.github.io
