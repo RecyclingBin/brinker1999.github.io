@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-I am a programmer who is still developing his skills.
+I am a shitty programmer who is still developing his skills.
 # Proficient Skills
 
 * HTML/CSS
