@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "Zach's Website"
+tagline:          "A GitHub Website"
+description:      "Zach's GitHub Website"
+url:              http://github.com/zachpanz88
+
+author:
+  name:           'Zach P'
+  url:            https://github.com/zachpanz88
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/zachpanz88/zachpanz88.github.io
