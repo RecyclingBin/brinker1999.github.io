@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-I am a better programmer than zachpanz88, who is still developing his skills.
+I am a shitty programmer, who is still developing his skills.
 # Proficient Skills
 
 * HTML/CSS
